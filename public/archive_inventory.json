@@ -1,0 +1,151 @@
+[
+    {
+        "id": 1,
+        "year": 2021,
+        "make": "Chevrolet",
+        "model": "Equinox LS",
+        "price": "11000",
+        "mileage": "63,481",
+        "status": "Available",
+        "exterior": "White",
+        "interior": "Creme with Dk Gray Accent",
+        "engine": "1.5L 4-Cylinder",
+        "fuel": "Gasoline",
+        "vin": "Contact for VIN #",
+        "images": [
+            "\/cars\/2021-equinox\/01-front.jpg"
+        ],
+        "description": "One owner, well-maintained Honda Accord with leather interior.",
+        "features": [
+            "AWD",
+            "Lane Keep Assist",
+            "Backup Camera"
+        ]
+    },
+    {
+        "id": 2,
+        "year": 2020,
+        "make": "Chevrolet",
+        "model": "Equinox LT",
+        "price": 11500,
+        "mileage": "77,000",
+        "status": "Available",
+        "exterior": "Black",
+        "interior": "Black Leather",
+        "engine": "2.0L Turbo",
+        "fuel": "Gasoline",
+        "vin": "Contact for VIN #",
+        "images": [
+            "\/cars\/2020-equinox\/01-front.jpg"
+        ],
+        "description": "Rebuilt title from a minor front-end accident. Professionally repaired.",
+        "features": [
+            "AWD",
+            "Blind Spot Monitoring",
+            "Heated Seats"
+        ]
+    },
+    {
+        "id": 3,
+        "year": 2019,
+        "make": "Chevrolet",
+        "model": "Equinox LT",
+        "price": 11500,
+        "mileage": "69,741",
+        "status": "Available",
+        "exterior": "Blue",
+        "interior": "Gray Cloth",
+        "engine": "2.0L Turbo",
+        "fuel": "Gasoline",
+        "vin": "Contact for VIN #",
+        "images": [
+            "\/cars\/2019-equinox\/01-front.jpg"
+        ],
+        "description": "Clean and well-equipped Chevrolet Equinox.",
+        "features": [
+            "Passive Entry",
+            "AWD",
+            "Remote Start"
+        ]
+    },
+    {
+        "id": 4,
+        "year": 2018,
+        "make": "Jeep",
+        "model": "Cherokee",
+        "price": 8800,
+        "mileage": "101,000",
+        "status": "Available",
+        "exterior": "Red",
+        "interior": "Black Leather",
+        "engine": "3.2L V6",
+        "fuel": "Gasoline",
+        "vin": "Contact for VIN #",
+        "images": [
+            "\/cars\/2018-cherokee\/01-front.jpg"
+        ],
+        "description": "Excellent condition, very clean inside and out.",
+        "features": [
+            "4x4",
+            "Leather Interior",
+            "Navigation System"
+        ]
+    },
+    {
+        "id": 5,
+        "year": 2016,
+        "make": "GMC",
+        "model": "Yukon",
+        "price": 18500,
+        "mileage": "125,000",
+        "status": "Available",
+        "exterior": "Black",
+        "interior": "Black Leather",
+        "engine": "6.2L V8",
+        "fuel": "Gasoline",
+        "vin": "Contact for VIN #",
+        "images": [
+            "\/cars\/2016-yukon\/01-front.jpg"
+        ],
+        "description": "Luxury SUV Loaded with Every Option.",
+        "features": [
+            "Heated\/Cooled Seats",
+            "Sunroof",
+            "Navigation"
+        ]
+    },
+    {
+        "id": 6,
+        "year": 2016,
+        "make": "Chevrolet",
+        "model": "Malibu Premier",
+        "price": 9500,
+        "mileage": "97,457",
+        "status": "Available",
+        "exterior": "White",
+        "interior": "Black Leather",
+        "engine": "2.0L Turbo",
+        "fuel": "Gasoline",
+        "vin": "Contact for VIN #",
+        "images": [
+            "\/cars\/2016-malibu\/01-front.jpg"
+        ],
+        "description": "Very clean and hard-to-find Malibu Premier.",
+        "features": [
+            "Sun Roof",
+            "Premium Audio System",
+            "Leather Interior"
+        ]
+    },
+    {
+        "id": 1769894031631,
+        "year": "2024",
+        "make": "Cadillac",
+        "model": "CT4",
+        "price": "18000",
+        "mileage": "32000",
+        "images": [
+            "\/cars\/2024-cadillac\/01-front.jpg"
+        ]
+    }
+]
