@@ -1,0 +1,25 @@
+[
+    {
+        "id": 1,
+        "year": 2021,
+        "make": "Chevrolet",
+        "model": "Equinox LS",
+        "price": "11000",
+        "mileage": "63,481",
+        "status": "Available",
+        "exterior": "White",
+        "interior": "Creme with Dk Gray Accent",
+        "engine": "1.5L 4-Cylinder",
+        "fuel": "Gasoline",
+        "vin": "Contact for VIN #",
+        "images": [
+            "/cars/2021-equinox/01-front.jpg"
+        ],
+        "description": "One owner, well-maintained Honda Accord with leather interior.",
+        "features": [
+            "AWD",
+            "Lane Keep Assist",
+            "Backup Camera"
+        ]
+    }
+]
